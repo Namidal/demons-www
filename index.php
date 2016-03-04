@@ -13,9 +13,8 @@
 		<script type="text/javascript" src="Public/js/menuTableDropdown.js"></script>
 	</head>
 	
-	<?php include 'Views/include/menu.php' ?> <!-- header -->
-	
 	<body class="container">
+		<?php include 'Views/include/menu.php' ?> <!-- header -->
 		<div class="ider">
 			<div class="container text-center">
 				<hr/>
