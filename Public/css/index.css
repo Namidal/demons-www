@@ -1,13 +1,17 @@
-html, body {
+html {
 	margin: 0;
-	background: url("../../Public/texture/green_cup.png");
+	background: url("../../Public/image/affiche.png");
+	background-size: 100%;
 }
 
 .ider {
-	background: url("../../Public/texture/fond.png");
-	background-size: 15%;
+	background-color: rgba(20,20,20,1);
 	min-height: 2000px;
-	padding: 5%;
+	padding: 5% 0;
+}
+
+.ider > * {
+	margin-bottom: 50px;
 }
 
 body.container {
@@ -20,11 +24,6 @@ div.container {
 	background-color: white;
 	border 2px solid black;
 	width: 100%;
-}
-
-#logincontainer {
-	background: url("../../Public/texture/fond.png");
-	background-size: 15%;
 }
 
 #affiche {
