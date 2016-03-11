@@ -96,23 +96,17 @@
 				foreach($records2 as $row2) {//Pour chaque table
 					if ($index == 0) {
 						echo('
-													<div class="active item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
-													
-														<div class="partydescriptionbox" style="height:380px;">
-															<textarea style="border:none" name="textarea" rows="13" cols="50" readonly=true>'.$row2['description'].'</textarea>
-															<img class="col-md-5" src="'.$row2['image'].'">
-														</div>
+													<div style="height:400px; overflow-y:auto;" class="active item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
+														<img style="margin:0px 30px 10px 0px; border: solid 5px #aaa; float:left; max-width:250px; max-height:400px;" src="'.$row2['image'].'">
+														'.nl2br($row2['description']).'
 													</div>
 													
 						');
 					} else {
 						echo('
-													<div class="item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
-													
-														<div class="partydescriptionbox" style="height:380px;">
-															<textarea style="border:none" name="textarea" rows="13" cols="50" readonly=true>'.$row2['description'].'</textarea>
-															<img style="float:right; max-width:250px; max-height:300px; min-width:150px; min-height:200px;" src="'.$row2['image'].'">
-														</div>
+													<div class="active item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
+														<img style="margin:0px 30px 10px 0px; border: solid 5px #aaa; float:left; max-width:250px; max-height:400px;" src="'.$row2['image'].'">
+														'.nl2br($row2['description']).'
 													</div>
 													
 						');
@@ -124,9 +118,6 @@
 				if ($index == 0) { // S'il n'y a pas encore de table
 					echo ('
 													<div class="active item carouselitem'.$row['idSession'].'" data-slide-number="0">
-														<div class="partydescriptionbox">
-															<p> </p>
-														</div>
 													</div>
 					');
 				}
