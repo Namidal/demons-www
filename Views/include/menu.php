@@ -22,26 +22,26 @@
 				<li class="dropdown 1777">
 					<a href="murder.php" title="">Murder</a>
 				</li>
+				<li class="dropdown 1777">
+					<a href="partenaires.php" title="">Partenaires</a>
+				</li>
 				<li>
 				<?php
 				session_start();
+				if (isset($_SESSION['identifiant']) && $_SESSION['identifiant']=="DMM") {
+				echo('<a href="admin.php" title="">Administrer</a>');
+				}
+				?>
+				</li>
+				<li>
+				<?php
 				if (isset($_SESSION['identifiant']) && !empty($_SESSION['identifiant'])) {
 				echo('<a href="deconnection.php" title="">Deconnexion</a>');
 				} else {
 				echo('<a href="connection.php" title="">Connexion</a>');
 				}
 				?>
-				</li>
-				<li class="dropdown 1777">
-					<a href="partenaires.php" title="">Partenaires</a>
-				</li>
-				<li>
-				<?php
-				if (isset($_SESSION['identifiant']) && $_SESSION['identifiant']=="DMM") {
-				echo('<a href="admin.php" title="">Administrer</a>');
-				}
-				?>
-				</li>				
+				</li>			
 			</div>
 		</div>
 	</nav>

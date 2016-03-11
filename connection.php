@@ -1,3 +1,9 @@
+<?php
+	if(isset($_SESSION['identifiant']) && !empty($_SESSION['identifiant'])){
+	header('location: index.php');
+	}
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 	<head>

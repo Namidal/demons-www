@@ -75,8 +75,6 @@
 							</div>
 						</div>
 					</div>
-					<br/>
-					<br/>
 					
 					<div class="container" style="padding-left:4%; padding-right:4%;">
 						<div class="row">
@@ -101,7 +99,7 @@
 													<div class="active item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
 													
 														<div class="partydescriptionbox" style="height:380px;">
-															<p class="col-md-7">'.$row2['description'].'</p>
+															<textarea style="border:none" name="textarea" rows="13" cols="50" readonly=true>'.$row2['description'].'</textarea>
 															<img class="col-md-5" src="'.$row2['image'].'">
 														</div>
 													</div>
@@ -112,8 +110,8 @@
 													<div class="item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
 													
 														<div class="partydescriptionbox" style="height:380px;">
+															<textarea style="border:none" name="textarea" rows="13" cols="50" readonly=true>'.$row2['description'].'</textarea>
 															<img style="float:right; max-width:250px; max-height:300px; min-width:150px; min-height:200px;" src="'.$row2['image'].'">
-															<p>'.$row2['description'].'</p>
 														</div>
 													</div>
 													
@@ -274,7 +272,7 @@
 												</div>
 												<div class="col-md-6">
 													<h1>Description de la partie</h1>
-													<textarea name="description" type="text" placeholder="Une description de votre partie" required="required" class="input" style="height:180px;"/>'.$row2['description'].'</textarea>
+													<textarea name="description" type="textarea" placeholder="Une description de votre partie" required="required" class="input" style="height:180px;"/>'.$row2['description'].'</textarea>
 													<input value="'.$row2['image'].'" name="image" type="text" placeholder="Entrer une URL d\'image pour illustrer votre partie" class="input"/>
 													<input type="submit" value="Modifier les informations" class="inputButton" style="position:relative; top:60px;"/>
 												</div>
@@ -340,7 +338,7 @@
 					echo('
 										<li class="col-sm-3" style="position:relative; margin-left:15px; margin-right:-30px;">
 											<a id="carousel-selector'.$row['idSession'].'-'.$index.'" class="thumbnail image158" style="width:100%; height:150px; text-align:center; vertical-align:middle;">
-												<p style="background: rgba('.$r.','.$g.','.$b.',0.1); margin:0; height:140px; width:215px; z-index:50; position:absolute;"></p>
+												<p style="background: rgba('.$r.','.$g.','.$b.',0.1); margin:0; height:140px; width:calc(100%-5px); z-index:50; position:absolute;"></p>
 												<p style="background: rgba('.$r.','.$g.','.$b.',0.5); margin:0; height:140px; width:100%;"></p>
 												<p class="specialp" style="width:100%; height:100%;">
 													<span style="width:215px; height:140px; text-align:center; vertical-align:middle;">'.$row2['name'].'</span>
@@ -411,7 +409,7 @@
 												</div>
 												<div class="col-md-6">
 													<h1>Description de la partie</h1>
-													<textarea name="description" type="text" placeholder="Une description de votre partie" required="required" class="input" style="height:180px;"/></textarea>
+													<textarea name="description" type="textarea" placeholder="Une description de votre partie" required="required" class="input" style="height:180px;"/></textarea>
 													<input name="image" type="text" placeholder="Entrer une URL d\'image pour illustrer votre partie" class="input"/>
 													<input type="submit" value="Inscrire sa partie" class="inputButton"/>
 												</div>
@@ -425,9 +423,7 @@
 								</div>
 								<hr/>
 							</div>
-					</div>
-					<br/>
-					<br/>		
+					</div>x
 				');					
 			}
 			?>

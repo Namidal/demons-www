@@ -32,7 +32,7 @@
 							<p>
 							Nous cherchons actuellement de loyaux larbi… euh mercenaires pour
 							nous aider dans notre quête de l'anneau du JDR
-							Si vous êtes adeptes du Jdr, des jeux de sociétés ou encore des
+							Si vous êtes adeptes du JDR, des jeux de sociétés ou encore des
 							murders, vous êtes le bienvenu parmis nous !
 							</p>
 							<hr/>
@@ -69,9 +69,7 @@
 				</div>
 				<hr/>
 			</div>
-			<br/>
-			<br/>
-			<br/>
+			
 			<div class="container text-center">
 				<hr/>
 				<div class="row">
@@ -84,8 +82,8 @@
 						<div class="col-md-9" align=justify>
 							<ul class="nav nav-pills nav-stacked">
 								<p>
-								Que vous soyez un vrai homme bien adepte du Jdr comme il faut
-								ou encore une jeune pousse frêle en quête d'expérience dans le Jdr ou encore
+								Que vous soyez un vrai homme bien adepte du JDR comme il faut
+								ou encore une jeune pousse frêle en quête d'expérience dans le JDR ou encore
 								le jeu de sociétés, n'hésitez pas à réserver des places sur les tables qui
 								vous enjaillent rien qu'en lisant la description ou pour la murder dans les
 								menus correspondants ci­dessus !
@@ -113,7 +111,7 @@
 	inscrivez votre table !
 	        Il vous sera offert un copieux repas pour chaque horaire où vous
 		exercerez vos dons ! Après tout, c'est à vous qu'incombe la grosse partie du
-		travail !
+		travail ! Un petit encas sera offert à tout vaillant MJ qui se présentera !
 		</p>
 							</ul>
 						</div>

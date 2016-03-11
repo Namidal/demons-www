@@ -74,17 +74,6 @@ session_start();
 					</div>
 				</div>
 			</div>
-			<br/>
-			<br/>
-			<div class="container text-center">
-				<hr/>
-				<div class="row">
-					<div class="col-lg-12">
-						test
-					</div>
-				</div>
-				<hr/>
-			</div>
 		</div>
 		
 	</body>
