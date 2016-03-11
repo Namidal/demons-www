@@ -107,7 +107,7 @@
 
 <p>
         Vous êtes reconnus par­delà les mondes comme un célèbre maître du jeu
-	qui souhaite faire partager ses dons ?! N'hésitez plus ! Connectez­vous et
+	qui souhaite faire partager ses dons ?! N'hésitez plus ! Connectez-vous et
 	inscrivez votre table !
 	        Il vous sera offert un copieux repas pour chaque horaire où vous
 		exercerez vos dons ! Après tout, c'est à vous qu'incombe la grosse partie du
