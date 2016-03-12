@@ -31,6 +31,7 @@
 			$userManager->addUser($user);
 			session_start();
 			$_SESSION['identifiant'] = $_POST["identifiant"];
+			header('Location: ../../index.php');
 		}
 	}
 
