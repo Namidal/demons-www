@@ -19,7 +19,7 @@
 			<div class="col-lg-6">
 				<div class="container text-center" align=left>
 					<hr/>
-					<strong>Organisateur</strong>
+					<strong>Organisateurs</strong>
 					<hr/>
 				</div>
 			<br/>
@@ -39,6 +39,23 @@
 					<hr/>
 				</div>
 			<br/>
+				<div class="container text-center" align=left>
+					<hr/>
+					<div class="row">
+						<div class="col-md-4">
+							<img src="Public/image/Medieval.png" alt="personnage de jdr" width="100%">
+						<hr/>
+						</div>
+						<div class="col-md-8" align=left>
+							<p>
+							Médiéval Studios est une association organisant des grandeurs natures à Strasbourg.
+							Venez les retrouver pendant la convention pour plus d'information !
+							</p>
+						</div>
+					</div>
+					<hr/>
+				</div>
+			<br>
 			<div class="container text-center" align=left>
 					<hr/>
 					<div class="row">
@@ -48,7 +65,7 @@
 						</div>
 						<div class="col-md-8" align=left>
 							<p>
-							Le Club jeux de l'INSA est un club ou les élèves de l'école fourmantent quelque complot ou juste jouer à quelque jeux ensemble. Ils se réunissent tous les mercredis soirs à partir de 17:30 dans leur Salle Assoc’.
+							Le Club jeux de l'INSA est un club ou les élèves de l'école fourmantent quelque complot ou viennent juste jouer à quelque jeux ensemble. Ils se réunissent tous les mercredis soirs à partir de 17:30 dans leur Salle Assoc’.
 							</p>
 						</div>
 					</div>
@@ -60,7 +77,7 @@
 			<div class="col-lg-6">
 				<div class="container text-center" align=left>
 					<hr/>
-					<strong>Partenaire</strong>
+					<strong>Partenaires</strong>
 					<hr/>
 				</div>
 			<br/>
@@ -94,7 +111,7 @@
 						</div>
 						<div class="col-md-8" align=left>
 							<p>
-							Chaîne distribuant jeux vidéo neufs et d'occasion, consoles, accessoires et produits dérivés de cet univers.
+							Chaîne distribuant jeux vidéo neufs et d'occasions, consoles, accessoires et produits dérivés de cet univers.
 							</p>
 							<p>
 							11 Rue du 22 Novembre, 67000 Strasbourg
@@ -108,16 +125,15 @@
 					<hr/>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="http://www.philibertnet.com/"><img src="Public/image/meltdown.png" alt="logo meltdown" width="100%"></a>
-							<hr/>
+							<a href="http://www.meltdown.bar/strasbourg"><img src="Public/image/meltdown.png" alt="logo meltdown" width="100%"></a>
 						<hr/>
 						</div>
 						<div class="col-md-8" align=left>
 							<p>
-							Le Meltdown est un bar un peu spécial à Strasbourg... Ils soutient l'eSport et vous pourrez y jouer dans une bonne ambiance à moult jeux vidéos.
+							Le Meltdown est un bar un peu spécial à Strasbourg … Vous pourrez y jouer dans une bonne ambiance à moult jeux vidéos. En plus, il soutiennent l'esport !
 							</p>
 							<p>
-							10 rue des Glacières à Strasbourg et sont ouverts tous les soirs du lundi au samedi.
+							10 rue des Glacières à Strasbourg, Ils sont ouverts tous les soirs du lundi au samedi.
 							</p>
 						</div>
 					</div>
