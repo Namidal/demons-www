@@ -1,4 +1,5 @@
 <?php
+	session_start();
 	if(isset($_SESSION['identifiant']) && !empty($_SESSION['identifiant'])){
 	header('location: index.php');
 	}
