@@ -61,7 +61,7 @@
 						<div class="row">
 							<div class="col-md-12" id="slider'.$row['idSession'].'">
 								<strong class="row">
-									Votre partenaire est maintenant inscrite !
+									Votre partie est maintenant inscrite !
 								</strong>
 							</div>
 						</div>
@@ -104,7 +104,7 @@
 						');
 					} else {
 						echo('
-													<div class="active item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
+													<div class="item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
 														<img style="margin:0px 30px 10px 0px; border: solid 5px #aaa; float:left; max-width:250px; max-height:400px;" src="'.$row2['image'].'">
 														'.nl2br($row2['description']).'
 													</div>
