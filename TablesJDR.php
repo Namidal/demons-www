@@ -104,7 +104,7 @@
 						');
 					} else {
 						echo('
-													<div class="item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
+													<div style="height:400px; overflow-y:auto;" class="item carouselitem'.$row['idSession'].'" data-slide-number="'.$index.'">
 														<img style="margin:0px 30px 10px 0px; border: solid 5px #aaa; float:left; max-width:250px; max-height:400px;" src="'.$row2['image'].'">
 														'.nl2br($row2['description']).'
 													</div>
