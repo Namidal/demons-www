@@ -3,10 +3,11 @@
 
 	<head>
 		<meta charset="utf-8" />
+		<link rel="stylesheet" href="Pyblic/css/log.css" />
 		<link rel="stylesheet" href="Public/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="Public/css/menu.css" />
 		<link rel="stylesheet" href="Public/css/index.css" />
-		<link rel="stylesheet" href="Public/css/log.css" />
+		<!--<link rel="stylesheet" href="Public/css/log.css" />-->
 		<link rel="stylesheet" href="Public/css/murder.css" />
 		<title>Démons &amp;&amp; Merveilles</title>
 		<link rel="icon" type="image/png" href="image/DetM.png" />
