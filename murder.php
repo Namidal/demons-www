@@ -43,6 +43,7 @@
 							</form>
 							<form id="deleterole" method="post" action="Private/MurderDeleteUser.php">
 								<input type="hidden" name="identifiant" value="'.$row['user'].'"/>
+								<input type="submit" value="Delete"/>
 							</form></td></tr>'
 						);
 					}
