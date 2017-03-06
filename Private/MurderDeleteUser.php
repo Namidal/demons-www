@@ -8,7 +8,7 @@
 	$req = $db->prepare('DELETE FROM userlinkjdr WHERE iduser = :identifiant AND idTable="0"');
 	$req->bindParam(":identifiant", $identifiant);
 	$req->execute();
-	$req->closeCUrsor();
+	$req->closeCursor();
 
 	header('Location: ../murder.php');
 ?>
