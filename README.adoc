@@ -1,0 +1,16 @@
+= Demons && Merveilles
+:author:Alexandre Gris
+
+== Architecture
+
+=== Tables de JDR
+
+Les tables sont hiérarchisé par une horraire, un numéro de tables
+
+=== Murder
+
+La Murder est considéré comme un horraire de JDR et est comparé à celui des tables lorsqu'il faut déterminer si quelqu'un peut s'inscrire à l'une où l'autre.
+
+=== Inscription
+
+Tables assossiatives Utilisateurs - Tables JDR
