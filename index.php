@@ -37,9 +37,9 @@
 							</p>
 							<hr/>
 							<p>
-							Vous souhaitez nous rejoindre ?! Alors venez à l'ARES le 9 avril à
+							Vous souhaitez nous rejoindre ?! Alors venez à l'ARES le 25 Mars à
 							10h00, c'est là que notre quête commencera !
-							Malheureusement, celle­ci prendra fin le jour suivant, à savoir le 10
+							Malheureusement, celle­ci prendra fin le jour suivant, à savoir le 26
 							avril, à 18h00…
 							</p>
 							<hr/>

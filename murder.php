@@ -25,7 +25,7 @@
 		<div class="col-lg-10">
 			<div class="container text-center" align=left>
 				<br/>
-				<p>Dimanche de 11h-17h par Gérome Louys.</p>
+				<p>Dimanche 11h-17h par Gris Alexandre.</p>
 				<!-- Espace réservé au responsable de la murder -->
 				<?php
 				if (isset($_SESSION['identifiant']) && ($_SESSION['identifiant']=="Murder" ||$_SESSION['identifiant']=="DMM")) {
