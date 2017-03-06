@@ -40,10 +40,7 @@
 								<input type="hidden" name="identifiant" value="'.$row['user'].'"/>
 								<input name="NouveauRole" type="text"/>
 								<input type="submit" value="Modifier"/>
-							</form></td>
-							<form id="deleterole" method="post" action="Private/MurderDeleteUser.php">
-								<input type="hidden" name="identifiant" value="'.$row['user'].'"/>
-							</form></td></tr>
+							</form></td></tr>'
 						);
 					}
 				echo ('</table><hr/></div><br/><br/><div class="container text-center" align=left>');}

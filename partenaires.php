@@ -43,14 +43,11 @@
 					<hr/>
 					<div class="row">
 						<div class="col-md-4">
-							<img src="Public/image/Medieval.png" alt="personnage de jdr" width="100%">
+							<img src="Public/image/vent-divin.png" alt="Vent Divin" width="100%">
 						<hr/>
 						</div>
 						<div class="col-md-8" align=left>
-							<p>
-							Médiéval Studios est une association organisant des grandeurs natures à Strasbourg.
-							Venez les retrouver pendant la convention pour plus d'information !
-							</p>
+							<p>Vente de mangas, DVD, jeux de rôle et de société dans un vaste espace accueillant aussi des tournois de jeux.</p>
 						</div>
 					</div>
 					<hr/>
@@ -162,7 +159,7 @@
 		</div>
 		</div>
 	</body>
-	
+
 	<footer>
 	<?php include 'Views/include/footer.php' ?> <!--footer -->
 	</footer>
