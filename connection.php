@@ -12,6 +12,7 @@
 		<link rel="stylesheet" href="Public/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="Public/css/menu.css" />
 		<link rel="stylesheet" href="Public/css/index.css" />
+		<link rel="stylesheet" href="Public/css/TablesJDR.css" />
 		<link rel="stylesheet" href="Public/css/log.css" />
 		<title>Démons &amp;&amp; Merveilles</title>
 		<link rel="icon" type="image/png" href="image/DetM.png" />
