@@ -38,7 +38,7 @@
 				<!-- Espace réservé au responsable de la murder -->
 				<?php
 				if (isset($_SESSION['identifiant']) && ($_SESSION['identifiant']=="Murder" ||$_SESSION['identifiant']=="DMM")) {
-					echo('<table border=2 class="table table-striped table-condensed"<tr><th>Utilisateur</th><th>eMail</th><th>Rôle</th><th>Modifier Rôle</th></tr>');
+					echo('<table border=2 class="table table-striped table-condensed"<tr><th>Utilisateur</th><th>eMail</th><th>Rôle</th><th>Modifier Rôle</th><th>Supprimer</th></tr>');
 					require_once("Private/config.php");
 					$records = $db->prepare('SELECT user, mail, role FROM usermurder');
 					$records->execute();
@@ -49,8 +49,8 @@
 								<input type="hidden" name="identifiant" value="'.$row['user'].'"/>
 								<input name="NouveauRole" type="text"/>
 								<input type="submit" value="Modifier"/>
-							</form>
-							<form id="deleterole" method="post" action="Private/MurderDeleteUser.php">
+							</form></td>
+							<td><form id="deleterole" method="post" action="Private/MurderDeleteUser.php">
 								<input type="hidden" name="identifiant" value="'.$row['user'].'"/>
 								<input type="submit" value="Delete"/>
 							</form></td></tr>'
