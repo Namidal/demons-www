@@ -27,6 +27,14 @@
 			<div class="container text-center" align=left>
 				<br/>
 				<p>Dimanche 11h-17h par Gris Alexandre.</p>
+				
+				<p style="fontsize:large;">Miroir. miroir, qui est le plus riche ?</p>
+				<p>Ambiance : Moderne Fantastique</p>
+				<p>Âge : 13+</p>
+				<br>
+				<p>
+				Avec sa collection de meubles anciens (en chêne massif et en marbre, évidemment), il est évident que Niko avait besoin d’aide pour emménager dans sa nouvelle maison de campagne. C’est ce que vous vous étiez dit avant d’arriver et de découvrir que non seulement les meubles n’étaient pas là, mais que Niko non plus. Pourtant, sa famille, arrivée la veille, est certaine d’avoir déjà fait une bonne partie du travail et que Niko était de toute évidence encore là. La voiture de Niko est encore garée et il n’apparaît sur aucune des caméras qui surveillent l’extérieur.
+				<br>La recherche de Niko prend une autre tournure, quand quelqu'un d'autre a disparu...</p>
 				<!-- Espace réservé au responsable de la murder -->
 				<?php
 				if (isset($_SESSION['identifiant']) && ($_SESSION['identifiant']=="Murder" ||$_SESSION['identifiant']=="DMM")) {
