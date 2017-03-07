@@ -24,7 +24,7 @@
 		<div class="col-lg-1">
 		</div>
 		<div class="col-lg-10">
-			<div class="container text-center" align=left>
+			<div class="container text-center" align=left style="text-align: justify; text-justify: inter-word;">
 				<br/>
 				<p>Dimanche 11h-17h par Gris Alexandre.</p>
 				
