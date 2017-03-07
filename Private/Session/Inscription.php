@@ -19,7 +19,7 @@
 		require_once("../../Models/UserManager.class.php");
 		$userManager = new UserManager($db);
 		if(!($userManager->checkUserExist(htmlspecialchars($_POST["identifiant"])))){
-		header('Location: connection.php');
+			header('Location: connection.php#alreadyexist');
 		}else{
 			$PasCrypt = sha1(htmlspecialchars($_POST["password"]));
 			$data = array(
@@ -34,6 +34,6 @@
 			header('Location: ../../index.php');
 		}
 	}
-
+	
 	header('Location: ../../connection.php');
 ?>
