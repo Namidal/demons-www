@@ -31,20 +31,20 @@
 							<hr/>
 							<p>
 							Nous cherchons actuellement de loyaux larbi… euh mercenaires pour
-							nous aider dans notre quête de l'anneau du JDR
-							Si vous êtes adeptes du JDR, des jeux de sociétés ou encore des
-							murders, vous êtes le bienvenu parmis nous !
+							nous aider dans notre quête de l'anneau unique, qui unit les cheveux blonds,
+							les cheveux gris.
+							Si vous êtes adeptes du JDR, des jeux de société ou encore des
+							murders, vous êtes le bienvenu parmi nous !
 							</p>
 							<hr/>
 							<p>
 							Vous souhaitez nous rejoindre ?! Alors venez à l'ARES le 25 Mars à
 							10h00, c'est là que notre quête commencera !
-							Malheureusement, celle­ci prendra fin le jour suivant, à savoir le 26
-							avril, à 18h00…
+							Malheureusement, celle­-ci prendra fin le 26 mars à 19h02.
 							</p>
 							<hr/>
 							<p>
-							Mais nous aurons tout le temps qu'il faudra pour jouer, nous
+							Mais nous aurons tout le temps qu'il nous faudra pour jouer, nous
 							enjailler, découvrir des contrées inexplorées et vivre de grandes et folles
 							aventures sur le thème de jeux quels qu'ils soient !
 							</p>
@@ -82,11 +82,11 @@
 						<div class="col-md-9" align=justify>
 							<ul class="nav nav-pills nav-stacked">
 								<p>
-								Que vous soyez un vrai homme bien adepte du JDR comme il faut
+								Que vous soyez un bon vieux roliste, à la recherche d'une petite table de JDR
 								ou encore une jeune pousse frêle en quête d'expérience dans le JDR ou encore
-								le jeu de sociétés, n'hésitez pas à réserver des places sur les tables qui
+								le jeu de société, n'hésitez pas à réserver des places sur les tables qui
 								vous enjaillent rien qu'en lisant la description ou pour la murder dans les
-								menus correspondants ci­dessus !
+								menus correspondants ci­-dessus !
 								</p>
 							</ul>
 						</div>
@@ -106,7 +106,7 @@
 							<ul class="nav nav-pills nav-stacked">
 
 <p>
-        Vous êtes reconnus par­delà les mondes comme un célèbre maître du jeu
+        Vous êtes reconnu par­ delà les mondes comme un célèbre maître du jeu
 	qui souhaite faire partager ses dons ?! N'hésitez plus ! Connectez-vous et
 	inscrivez votre table !
 	        Il vous sera offert un copieux repas pour chaque horaire où vous

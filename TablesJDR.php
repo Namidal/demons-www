@@ -144,7 +144,7 @@
 												<p>Nom du jeu de rôle : <strong>'.$row2['jdrName'].'</strong></p>
 												<p>Ambiance : <strong>'.$row2['ambiance'].'</strong></p>
 												<p>Experience Roliste : <strong>'.$row2['experience'].'</strong></p>
-												<p>Nombre de joueur maximum : <strong>'.$row2['pjMax'].'</strong></p>
+												<p>Nombre de joueurs maximum : <strong>'.$row2['pjMax'].'</strong></p>
 												<p>Personnes inscrites : <strong>
 					');
 					
