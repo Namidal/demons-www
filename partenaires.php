@@ -43,16 +43,16 @@
 					<hr/>
 					<div class="row">
 						<div class="col-md-4">
-							<img src="Public/image/vent-divin.png" alt="Vent Divin" width="100%">
+							<img src="Public/image/Medieval.png" alt="asso de GNMurder" width="100%">
 						<hr/>
 						</div>
 						<div class="col-md-8" align=left>
-							<p>Vente de mangas, DVD, jeux de rôle et de société dans un vaste espace accueillant aussi des tournois de jeux.</p>
+							<p>Mediéval Studios est une association organisant des grandeurs natures à Strasbourg. Retrouvez-les pendant la convention pour plus d'information !:w</p>
 						</div>
 					</div>
 					<hr/>
 				</div>
-			<br>
+			<br/>
 			<div class="container text-center" align=left>
 					<hr/>
 					<div class="row">
@@ -74,7 +74,7 @@
 			<div class="col-lg-6">
 				<div class="container text-center" align=left>
 					<hr/>
-					<strong>Partenaires</strong>
+					<strong>Partenaires et anciens partenaires</strong>
 					<hr/>
 				</div>
 			<br/>
@@ -132,6 +132,20 @@
 							<p>
 							10 rue des Glacières à Strasbourg, Ils sont ouverts tous les soirs du lundi au samedi.
 							</p>
+						</div>
+					</div>
+					<hr/>
+				</div>
+			<br/>
+				<div class="container text-center" align=left>
+					<hr/>
+					<div class="row">
+						<div class="col-md-4">
+							<img src="Public/image/vent-divin.png" alt="Vent Divin" width="100%">
+						<hr/>
+						</div>
+						<div class="col-md-8" align=left>
+							<p>Vente de mangas, DVD, jeux de rôle et de société dans un vaste espace accueillant aussi des tournois de jeux.</p>
 						</div>
 					</div>
 					<hr/>
