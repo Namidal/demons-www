@@ -15,7 +15,7 @@
 		<div id="logbox">
 			<div id="alreadyexist" class="lightbox zonebox">
 				<a href="#_"></a>
-				Cette table existe déjà.
+				Cet identifiant existe déjà.
 			</div>
 			<form id="signup" method="post" action="Private/Session/Inscription.php">
 				<h1>Créer un compte</h1>
