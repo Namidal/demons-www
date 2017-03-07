@@ -13,6 +13,10 @@
 	
 	<div class="col-md-6">
 		<div id="logbox">
+			<div id="alreadyexist" class="lightbox zonebox">
+				<a href="#_"></a>
+				Cette table existe déjà.
+			</div>
 			<form id="signup" method="post" action="Private/Session/Inscription.php">
 				<h1>Créer un compte</h1>
 				<input name="identifiant" type="text" placeholder="Votre identifiant" pattern="^[\w]{3,16}$" autofocus="autofocus" required="required" class="input pass"/>
